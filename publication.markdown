@@ -4,7 +4,7 @@ title: Publication
 slug: /blog
 ---
 
-### journal
+### Journal
 * Semi-supervised mp-MRI data synthesis with StitchLayer and auxiliary distance maximization. 
 <br />
 Zhiwei Wang, **Yi Lin**, Kwang-Ting Tim Cheng, Xin Yang
