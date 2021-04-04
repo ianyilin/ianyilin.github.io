@@ -33,34 +33,28 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
-    - name: Whatever  # <-- whatever.md
+    - name: Publication  # <-- blog.md
+    - name: Resume  # <-- whatever.md
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: ianylin@tencent.com
+      link: mailto:ianylin@tencent.com
     - name: WeChat
-      value: YourWeChatUsername
+      value: ianlin1
       link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+      link: http://twitter.com/ian_yilin
+      username: "@ian_yilin"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: http://facebook.com/ianyilin
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/ianyilin
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/hust_linyi
 
 
 
