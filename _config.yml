@@ -1,12 +1,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Yi Lin (Ian)
+title: Yi Lin
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
+baseurl: "/ian" # the subpath of the site
 url: "https://ianyilin.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/me.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -17,24 +17,24 @@ header:
     - name: Resume
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: ianylin@tencent.com
       link: mailto:ianylin@tencent.com
-    # - name: WeChat
-      # value: YourWeChatUsername
-      # link: "#"
+    - name: WeChat
+      value: ianlin1
+      link: "#"
   follow:
-    # - name: Twitter
-    #   link: http://twitter.com/YourTwitterUsername
-    #   username: "@YourTwitterUsername"
-    # - name: Facebook
-    #   link: http://facebook.com/YourFacebookUsername
-    # - name: LinkedIn
-    #   link: http://linkedin.com/in/YourLinkedInUsername
-    # - name: GitHub
-    #   link: http://github.com/YourGitHubUsername
+    - name: Twitter
+      link: http://twitter.com/ian_yilin
+      username: "@ian_yilin"
+    - name: Facebook
+      link: http://facebook.com/ianyilin
+    - name: LinkedIn
+      link: http://linkedin.com/in/ianyilin
+    - name: GitHub
+      link: http://github.com/hust_linyi
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
@@ -46,6 +46,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-pdf-embed
 
 # Excluded items
 exclude:

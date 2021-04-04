@@ -1,0 +1,50 @@
+I"i<h3 id="journal">journal</h3>
+<ul>
+  <li>
+    <p>Semi-supervised mp-MRI data synthesis with StitchLayer and auxiliary distance maximization. 
+<br />
+Zhiwei Wang, <strong>Yi Lin</strong>, Kwang-Ting Tim Cheng, Xin Yang
+<br />
+<em>Medical image analysis</em>, MIA, 2020, IF: 8.880.</p>
+  </li>
+  <li>
+    <p>A two-stage convolutional neural network for pulmonary embolism detection from CTPA images.
+<br />
+Xin Yang, <strong>Yi Lin</strong>, Jianchao Su, Xiang Wang, Xiang Li, Jingen Lin, Kwang-Ting Cheng.
+<br />
+<em>IEEE Access</em>, 2019, IF: 4.217.</p>
+  </li>
+  <li>
+    <p>Bi-modality medical image synthesis using semi-supervised sequential generative adversarial networks.
+<br />
+Xin Yang, <strong>Yi Lin</strong>, Zhiwei Wang, Xin Li, Kwang-Ting Cheng.
+<br />
+<em>IEEE journal of biomedical and health informatics</em>, JBHI, 2019, IF: 4.098.</p>
+  </li>
+</ul>
+
+<h3 id="conference">Conference</h3>
+<ul>
+  <li>
+    <p>Seg4Reg Networks for Automated Spinal Curvature Estimation.
+<br />
+<strong>Yi Lin</strong>, Hong-Yu Zhou, Kai Ma, Xin Yang, Yefeng Zheng.
+<br />
+<em>MICCAI workshop</em>, 2019.</p>
+  </li>
+  <li>
+    <p>Automated pulmonary embolism detection from CTPA images using an end-to-end convolutional neural network.
+<br />
+<strong>Yi Lin</strong>, Jianchao Su, Xiang Wang, Xiang Li, Jingen Liu, Kwang-Ting Cheng, Xin Yang.
+<br />
+<em>MICCAI</em>, 2019.</p>
+  </li>
+  <li>
+    <p>StitchAD-GAN for Synthesizing Apparent Diffusion Coefficient Images of Clinically Significant Prostate Cancer.
+<br />
+Zhiwei Wang, <strong>Yi Lin</strong>, Chunyuan Liao, Kwang-Ting Cheng, Xin Yang.
+<br />
+<em>BMVC</em>, 2019.</p>
+  </li>
+</ul>
+:ET
