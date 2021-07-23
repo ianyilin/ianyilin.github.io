@@ -10,6 +10,7 @@ slug: /blog
 Zhiwei Wang, **Yi Lin**, Kwang-Ting Tim Cheng, Xin Yang
 <br />
 *Medical image analysis*, MIA, 2020, IF: 8.880.
+<br />
 
 * A two-stage convolutional neural network for pulmonary embolism detection from CTPA images.
 <br />
