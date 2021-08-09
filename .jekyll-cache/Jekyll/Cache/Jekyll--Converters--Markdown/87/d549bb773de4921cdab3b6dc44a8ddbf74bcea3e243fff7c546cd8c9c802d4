@@ -1,4 +1,4 @@
-I"p<h3 id="journal">Journal</h3>
+I"K	<h3 id="journal">Journal</h3>
 <ul>
   <li>
     <p>Semi-supervised mp-MRI data synthesis with StitchLayer and auxiliary distance maximization. 
@@ -25,7 +25,29 @@ Xin Yang, <strong>Yi Lin</strong>, Zhiwei Wang, Xin Li, Kwang-Ting Cheng.
 </ul>
 
 <h3 id="conference">Conference</h3>
+
 <ul>
+  <li>
+    <p>Seg4Reg+: A Local and Global ConsistencyLearning betweenSpine Segmentation and CobbAngle Regression.
+<br />
+<strong>Yi Lin</strong>, Luyan Liu, Kai Ma, Yefeng Zheng.
+<br />
+<em>MICCAI</em>, 2021.</p>
+  </li>
+  <li>
+    <p>Triplet-Branch Network with Prior-Knowledge Embedding for Fatigue Fracture Grading.
+<br />
+Yuexiang Li, Yanping Wang, Guang Lin,<strong>Yi Lin</strong>, Dong Wei, Qirui Zhang, Kai Ma, Guangming Lu, ZhiqiangZhang, Yefeng Zheng,
+<br />
+<em>MICCAI</em>, 2021.</p>
+  </li>
+  <li>
+    <p>A Hierarchical FeatureConstraint to Camouflage Medical Adversarial Attacks
+<br />
+Qingsong Yao, Zecheng He,<strong>Yi Lin</strong>, Kai Ma, Yefeng Zheng, S. Kevin Zhou.
+<br />
+<em>MICCAI</em>, 2021.</p>
+  </li>
   <li>
     <p>Seg4Reg Networks for Automated Spinal Curvature Estimation.
 <br />

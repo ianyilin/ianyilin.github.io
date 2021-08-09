@@ -25,6 +25,25 @@ Xin Yang, **Yi Lin**, Zhiwei Wang, Xin Li, Kwang-Ting Cheng.
 *IEEE journal of biomedical and health informatics*, JBHI, 2019, IF: 4.098.
 
 ### Conference
+
+* Seg4Reg+: A Local and Global ConsistencyLearning betweenSpine Segmentation and CobbAngle Regression.
+<br />
+**Yi Lin**, Luyan Liu, Kai Ma, Yefeng Zheng.
+<br />
+*MICCAI*, 2021.
+
+* Triplet-Branch Network with Prior-Knowledge Embedding for Fatigue Fracture Grading.
+<br />
+Yuexiang Li, Yanping Wang, Guang Lin,**Yi Lin**, Dong Wei, Qirui Zhang, Kai Ma, Guangming Lu, ZhiqiangZhang, Yefeng Zheng,
+<br />
+*MICCAI*, 2021.
+
+* A Hierarchical FeatureConstraint to Camouflage Medical Adversarial Attacks
+<br />
+Qingsong Yao, Zecheng He,**Yi Lin**, Kai Ma, Yefeng Zheng, S. Kevin Zhou.
+<br />
+*MICCAI*, 2021.
+
 * Seg4Reg Networks for Automated Spinal Curvature Estimation.
 <br />
 **Yi Lin**, Hong-Yu Zhou, Kai Ma, Xin Yang, Yefeng Zheng.
