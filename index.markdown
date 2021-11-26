@@ -20,6 +20,7 @@ profile_picture:
 <p>
 
 <h3>News</h3>
+[Nov 2021] 1st place in AIMIS challenge!<br />
 [May 2021] Three papers have been accepted by MICCAI 2021!<br />
 [Oct 2020] 1st place in MICCAI 2021 CADA Challenge!<br />
 [Oct 2020] 2nd place in MICCAI 2021 ADAM Challenge!<br />
