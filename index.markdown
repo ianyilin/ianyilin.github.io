@@ -25,7 +25,7 @@ profile_picture:
 [Nov 2020] <a href="http://www.moe.gov.cn/srcsite/A08/s5672/202101/t20210115_509932.html"><b>Gold Award</b></a> in 6<sup>th</sup> China International College Studnets' "Internet+" Innovation and Entrepreneurship Competition!<br />
 [Oct 2020] <a href="https://cada.grand-challenge.org"><b>1<sup>st</sup> place</b></a> in MICCAI 2020 CADA Challenge!<br />
 [Oct 2020] <a href="https://adam.isi.uu.nl"><b>2<sup>nd</sup> place</b></a> in MICCAI 2020 ADAM Challenge!<br />
-[Oct 2019] <a href="https://adam.isi.uu.nl"><b>1<sup>st</sup> place</b></a> in MICCAI 2019 AASCE Challenge!<br />
+[Oct 2019] <a href="https://aasce19.grand-challenge.org"><b>1<sup>st</sup> place</b></a> in MICCAI 2019 AASCE Challenge!<br />
 
 
 
