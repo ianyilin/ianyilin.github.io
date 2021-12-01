@@ -24,7 +24,7 @@ profile_picture:
 [May 2021] <b>Three papers</b> have been accepted by MICCAI 2021!<br />
 [Nov 2020] <a href="http://www.moe.gov.cn/srcsite/A08/s5672/202101/t20210115_509932.html"><b>Gold Award</b></a> in 6<sup>th</sup> China International College Studnets' "Internet+" Innovation and Entrepreneurship Competition!<br />
 [Oct 2020] <a href="https://cada.grand-challenge.org"><b>1st place</b></a> in MICCAI 2021 CADA Challenge!<br />
-[Oct 2020] <a href="https://adam.isi.uu.nl"><b></a>2nd place</b> in MICCAI 2021 ADAM Challenge!<br />
+[Oct 2020] <a href="https://adam.isi.uu.nl"><b>2nd place</b></a> in MICCAI 2021 ADAM Challenge!<br />
 
 
 
