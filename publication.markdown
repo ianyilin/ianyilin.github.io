@@ -4,12 +4,45 @@ title: Publication
 slug: /blog
 ---
 
+### <a href="https://scholar.google.com/citations?user=JaSNrNEAAAAJ&hl=en">Google Scholar</a>
+
+### Submitted
+* Deep learning for medical image segmentation: tricks, challenges and future directions
+<br />
+\*Dong Zhang, **\*Yi Lin**, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng
+<br />
+
+* Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images
+<br />
+**\*Yi Lin**, \*Zhiyong Qu, Hao Chen, Zhongke Gao, Yuexiang Li, Lili Xia, Kai Ma, Yefeng Zheng, Kwang-Ting Cheng
+<br />
+
+* LE-NAS: Learning-based Ensemble with NAS for Dose Prediction
+<br />
+**\*Yi Lin**, \*Yanfei Liu, Hao Chen, Xin Yang, Kai Ma, Yefeng Zheng, Kwang-Ting Cheng
+<br />
+
+
+
 ### Journal
+
+* A Deep Learning Approach to Predict Conductive Hearing Loss in Patients With Otitis Media With Effusion Using Otoscopic Images
+<br />
+Junbo Zeng, Weibiao Kang, Suijun Chen, **Yi Lin**, Wenting Deng, Yajing Wang, Guisheng Chen, Kai Ma, Fei Zhao, Yefeng Zheng, Maojin Liang, Linqi Zeng, Weijie Ye, Peng Li, Yubin Chen, Guoping Chen, Jinliang Gao, Minjian Wu, Yuejia Su, Yiqing Zheng, Yuexin Cai
+<br />
+**JAMA Otolaryngology–Head & Neck Surgery**, 2022, IF: 8.96.
+
+* Deep learning for computational cytology: A survey
+<br />
+Hao Jiang, Yanning Zhou, **Yi Lin**, Ronald CK Chan, Jiang Liu, Hao Chen
+<br />
+*Medical image analysis*, MedIA, 2022, IF: 13.828.
+
 * Semi-supervised mp-MRI data synthesis with StitchLayer and auxiliary distance maximization. 
 <br />
 Zhiwei Wang, **Yi Lin**, Kwang-Ting Tim Cheng, Xin Yang
 <br />
-*Medical image analysis*, MIA, 2020, IF: 8.880.
+*Medical image analysis*, MedIA, 2020, IF: 8.880.
 <br />
 
 * A two-stage convolutional neural network for pulmonary embolism detection from CTPA images.
@@ -25,6 +58,12 @@ Xin Yang, **Yi Lin**, Zhiwei Wang, Xin Li, Kwang-Ting Cheng.
 *IEEE journal of biomedical and health informatics*, JBHI, 2019, IF: 4.098.
 
 ### Conference
+
+* InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation
+<br />
+**Yi Lin**, Zeyu Wang, Kwang-Ting Cheng, Hao Chen.
+<br />
+*MICCAI*, 2022.
 
 * Seg4Reg+: A Local and Global ConsistencyLearning betweenSpine Segmentation and CobbAngle Regression.
 <br />

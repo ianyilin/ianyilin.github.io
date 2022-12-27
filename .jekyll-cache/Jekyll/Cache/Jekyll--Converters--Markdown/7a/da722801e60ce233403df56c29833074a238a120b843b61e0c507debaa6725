@@ -1,11 +1,50 @@
-I"K	<h3 id="journal">Journal</h3>
+I"g<h3 id="google-scholar"><a href="https://scholar.google.com/citations?user=JaSNrNEAAAAJ&amp;hl=en">Google Scholar</a></h3>
+
+<h3 id="submitted">Submitted</h3>
 <ul>
+  <li>
+    <p>Deep learning for medical image segmentation: tricks, challenges and future directions
+<br />
+*Dong Zhang, <strong>*Yi Lin</strong>, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng
+<br /></p>
+  </li>
+  <li>
+    <p>Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images
+<br />
+<strong>*Yi Lin</strong>, *Zhiyong Qu, Hao Chen, Zhongke Gao, Yuexiang Li, Lili Xia, Kai Ma, Yefeng Zheng, Kwang-Ting Cheng
+<br /></p>
+  </li>
+  <li>
+    <p>LE-NAS: Learning-based Ensemble with NAS for Dose Prediction
+<br />
+<strong>*Yi Lin</strong>, *Yanfei Liu, Hao Chen, Xin Yang, Kai Ma, Yefeng Zheng, Kwang-Ting Cheng
+<br /></p>
+  </li>
+</ul>
+
+<h3 id="journal">Journal</h3>
+
+<ul>
+  <li>
+    <p>A Deep Learning Approach to Predict Conductive Hearing Loss in Patients With Otitis Media With Effusion Using Otoscopic Images
+<br />
+Junbo Zeng, Weibiao Kang, Suijun Chen, <strong>Yi Lin</strong>, Wenting Deng, Yajing Wang, Guisheng Chen, Kai Ma, Fei Zhao, Yefeng Zheng, Maojin Liang, Linqi Zeng, Weijie Ye, Peng Li, Yubin Chen, Guoping Chen, Jinliang Gao, Minjian Wu, Yuejia Su, Yiqing Zheng, Yuexin Cai
+<br />
+<strong>JAMA Otolaryngology–Head &amp; Neck Surgery</strong>, 2022, IF: 8.96.</p>
+  </li>
+  <li>
+    <p>Deep learning for computational cytology: A survey
+<br />
+Hao Jiang, Yanning Zhou, <strong>Yi Lin</strong>, Ronald CK Chan, Jiang Liu, Hao Chen
+<br />
+<em>Medical image analysis</em>, MedIA, 2022, IF: 13.828.</p>
+  </li>
   <li>
     <p>Semi-supervised mp-MRI data synthesis with StitchLayer and auxiliary distance maximization. 
 <br />
 Zhiwei Wang, <strong>Yi Lin</strong>, Kwang-Ting Tim Cheng, Xin Yang
 <br />
-<em>Medical image analysis</em>, MIA, 2020, IF: 8.880.
+<em>Medical image analysis</em>, MedIA, 2020, IF: 8.880.
 <br /></p>
   </li>
   <li>
@@ -27,6 +66,13 @@ Xin Yang, <strong>Yi Lin</strong>, Zhiwei Wang, Xin Li, Kwang-Ting Cheng.
 <h3 id="conference">Conference</h3>
 
 <ul>
+  <li>
+    <p>InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation
+<br />
+<strong>Yi Lin</strong>, Zeyu Wang, Kwang-Ting Cheng, Hao Chen.
+<br />
+<em>MICCAI</em>, 2022.</p>
+  </li>
   <li>
     <p>Seg4Reg+: A Local and Global ConsistencyLearning betweenSpine Segmentation and CobbAngle Regression.
 <br />

@@ -1,12 +1,5 @@
----
-layout: home
-profile_picture:
-  src: /assets/img/me.png
-  alt: website picture
----
-
-<h3>Biology</h3>
-<p align = "justify">
+I"R<h3>Biology</h3>
+<p align="justify">
     Yi Lin is now a PhD candidate at the Department of Computer Science and Engineering (CSE), 
     Hong Kong University of Science and Technology (HKUST), under the supervision of 
     Prof. <a href="https://seng.ust.hk/about/people/faculty/tim-kwang-ting-cheng">Kwang-Ting (Tim) Cheng</a> and 
@@ -32,3 +25,5 @@ profile_picture:
 
 
 
+</p></p>
+:ET
