@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        const basePath = '/running/'.replace(/\/$/, '');
+        const redirect = sessionStorage.getItem('redirect');
+        if (redirect) {
+          sessionStorage.removeItem('redirect');
+          if (
+            redirect !== basePath + '/' &&
+            redirect !== basePath + '/index.html'
+          ) {
+            window.history.pushState(null, '', redirect);
+          }
+        }
+      })();
+    </script>
+    <link rel="icon" type="image/png" href="/running/images/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Running Page</title>
+    <script type="module" crossorigin src="/running/assets/index-CswuKhtj.js"></script>
+    <link rel="modulepreload" crossorigin href="/running/assets/vendors-DGDLs1LD.js">
+    <link rel="modulepreload" crossorigin href="/running/assets/activities-XHKyUZT8.js">
+    <link rel="stylesheet" crossorigin href="/running/assets/index-BvRsd5J0.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
