@@ -1,6 +1,6 @@
 {
-  "_activities-XHKyUZT8.js": {
-    "file": "assets/activities-XHKyUZT8.js",
+  "_activities-iv_5rjjA.js": {
+    "file": "assets/activities-iv_5rjjA.js",
     "name": "activities"
   },
   "_vendors-DGDLs1LD.js": {
@@ -9,7 +9,7 @@
     "isDynamicEntry": true
   },
   "assets/github.svg": {
-    "file": "assets/github.svg-DKkHYRCu.js",
+    "file": "assets/github.svg-C2j8KuId.js",
     "name": "github.svg",
     "src": "assets/github.svg",
     "isDynamicEntry": true,
@@ -18,7 +18,7 @@
     ]
   },
   "assets/grid.svg": {
-    "file": "assets/grid.svg-a9SfmFbe.js",
+    "file": "assets/grid.svg-wmkhx5MH.js",
     "name": "grid.svg",
     "src": "assets/grid.svg",
     "isDynamicEntry": true,
@@ -27,7 +27,7 @@
     ]
   },
   "assets/mol.svg": {
-    "file": "assets/mol.svg-B3uUfbEC.js",
+    "file": "assets/mol.svg-Dqh6Glgp.js",
     "name": "mol.svg",
     "src": "assets/mol.svg",
     "isDynamicEntry": true,
@@ -162,7 +162,7 @@
     ]
   },
   "assets/year_summary_2026.svg": {
-    "file": "assets/year_summary_2026-DgZW2F3U.js",
+    "file": "assets/year_summary_2026-DsvivmW6.js",
     "name": "year_summary_2026",
     "src": "assets/year_summary_2026.svg",
     "isDynamicEntry": true,
@@ -171,13 +171,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CswuKhtj.js",
+    "file": "assets/index-GJNhweMZ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-DGDLs1LD.js",
-      "_activities-XHKyUZT8.js"
+      "_activities-iv_5rjjA.js"
     ],
     "dynamicImports": [
       "src/static/run_countries.ts",
@@ -202,18 +202,18 @@
       "assets/mol.svg"
     ],
     "css": [
-      "assets/index-BvRsd5J0.css"
+      "assets/index-CWw9t2T6.css"
     ]
   },
   "src/static/run_countries.ts": {
-    "file": "assets/run_countries-nfLug_U1.js",
+    "file": "assets/run_countries-DRFyFq5X.js",
     "name": "run_countries",
     "src": "src/static/run_countries.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendors-DGDLs1LD.js",
-      "_activities-XHKyUZT8.js"
+      "_activities-iv_5rjjA.js"
     ]
   }
 }
