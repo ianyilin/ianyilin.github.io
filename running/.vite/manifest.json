@@ -1,6 +1,6 @@
 {
-  "_activities-D845TK0T.js": {
-    "file": "assets/activities-D845TK0T.js",
+  "_activities-DR9riUYD.js": {
+    "file": "assets/activities-DR9riUYD.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
@@ -25,7 +25,7 @@
     ]
   },
   "assets/grid.svg": {
-    "file": "assets/grid.svg-BMYfcDkr.js",
+    "file": "assets/grid.svg-_KRkL-VJ.js",
     "name": "grid.svg",
     "src": "assets/grid.svg",
     "isDynamicEntry": true,
@@ -178,13 +178,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CfSGzeHf.js",
+    "file": "assets/index-BJ6PgtmH.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-Q09ggEcX.js",
-      "_activities-D845TK0T.js"
+      "_activities-DR9riUYD.js"
     ],
     "dynamicImports": [
       "src/static/run_countries.ts",
@@ -213,14 +213,14 @@
     ]
   },
   "src/static/run_countries.ts": {
-    "file": "assets/run_countries-CfYXkRM8.js",
+    "file": "assets/run_countries-D2Rm8aB7.js",
     "name": "run_countries",
     "src": "src/static/run_countries.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendors-Q09ggEcX.js",
-      "_activities-D845TK0T.js"
+      "_activities-DR9riUYD.js"
     ]
   }
 }
