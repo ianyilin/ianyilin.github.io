@@ -1,6 +1,6 @@
 {
-  "_activities-DeFBnoOn.js": {
-    "file": "assets/activities-DeFBnoOn.js",
+  "_activities-DUXCjJWC.js": {
+    "file": "assets/activities-DUXCjJWC.js",
     "name": "activities"
   },
   "_vendors-DGDLs1LD.js": {
@@ -18,7 +18,7 @@
     ]
   },
   "assets/grid.svg": {
-    "file": "assets/grid.svg-OveWOz9j.js",
+    "file": "assets/grid.svg-C8CJy_fg.js",
     "name": "grid.svg",
     "src": "assets/grid.svg",
     "isDynamicEntry": true,
@@ -171,13 +171,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-0BEtwBKm.js",
+    "file": "assets/index-6APyUl9W.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-DGDLs1LD.js",
-      "_activities-DeFBnoOn.js"
+      "_activities-DUXCjJWC.js"
     ],
     "dynamicImports": [
       "src/static/run_countries.ts",
@@ -206,14 +206,14 @@
     ]
   },
   "src/static/run_countries.ts": {
-    "file": "assets/run_countries-DV_378Ll.js",
+    "file": "assets/run_countries-hqxVm2Lb.js",
     "name": "run_countries",
     "src": "src/static/run_countries.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendors-DGDLs1LD.js",
-      "_activities-DeFBnoOn.js"
+      "_activities-DUXCjJWC.js"
     ]
   }
 }
