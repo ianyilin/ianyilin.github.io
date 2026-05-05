@@ -1,30 +1,30 @@
 {
-  "_activities-BslLCCOH.js": {
-    "file": "assets/activities-BslLCCOH.js",
+  "_activities-CzKoelL7.js": {
+    "file": "assets/activities-CzKoelL7.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
     "file": "assets/vendors-CCtDtUbp.css",
     "src": "_vendors-CCtDtUbp.css"
   },
-  "_vendors-wmZ1emGM.js": {
-    "file": "assets/vendors-wmZ1emGM.js",
+  "_vendors-CZpV-2M1.js": {
+    "file": "assets/vendors-CZpV-2M1.js",
     "name": "vendors",
     "css": [
       "assets/vendors-CCtDtUbp.css"
     ]
   },
   "index.html": {
-    "file": "assets/index-CG013fPV.js",
+    "file": "assets/index-CbAwHjiu.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vendors-wmZ1emGM.js",
-      "_activities-BslLCCOH.js"
+      "_vendors-CZpV-2M1.js",
+      "_activities-CzKoelL7.js"
     ],
     "css": [
-      "assets/index-Co9ZSxKF.css"
+      "assets/index-CCTxWPUM.css"
     ]
   }
 }
