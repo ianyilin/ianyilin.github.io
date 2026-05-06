@@ -1,0 +1,30 @@
+{
+  "_activities-__2oqKe-.js": {
+    "file": "assets/activities-__2oqKe-.js",
+    "name": "activities"
+  },
+  "_vendors-CCtDtUbp.css": {
+    "file": "assets/vendors-CCtDtUbp.css",
+    "src": "_vendors-CCtDtUbp.css"
+  },
+  "_vendors-CqepDsYn.js": {
+    "file": "assets/vendors-CqepDsYn.js",
+    "name": "vendors",
+    "css": [
+      "assets/vendors-CCtDtUbp.css"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-COyxJJ_H.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendors-CqepDsYn.js",
+      "_activities-__2oqKe-.js"
+    ],
+    "css": [
+      "assets/index-D8vdohH8.css"
+    ]
+  }
+}
