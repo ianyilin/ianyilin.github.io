@@ -1,6 +1,6 @@
 {
-  "_activities-__2oqKe-.js": {
-    "file": "assets/activities-__2oqKe-.js",
+  "_activities-DppaLOJ9.js": {
+    "file": "assets/activities-DppaLOJ9.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
@@ -15,13 +15,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-COyxJJ_H.js",
+    "file": "assets/index-DB2sLWmg.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-CqepDsYn.js",
-      "_activities-__2oqKe-.js"
+      "_activities-DppaLOJ9.js"
     ],
     "css": [
       "assets/index-D8vdohH8.css"
