@@ -1,6 +1,6 @@
 {
-  "_activities-BmvPDtO0.js": {
-    "file": "assets/activities-BmvPDtO0.js",
+  "_activities-D4Sv_3cN.js": {
+    "file": "assets/activities-D4Sv_3cN.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
@@ -15,13 +15,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-ovGxuDuW.js",
+    "file": "assets/index-BYmv0vWt.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-CqepDsYn.js",
-      "_activities-BmvPDtO0.js"
+      "_activities-D4Sv_3cN.js"
     ],
     "css": [
       "assets/index-ezkY6dYa.css"
