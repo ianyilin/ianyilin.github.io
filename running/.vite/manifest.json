@@ -1,6 +1,6 @@
 {
-  "_activities-CL6-jAfm.js": {
-    "file": "assets/activities-CL6-jAfm.js",
+  "_activities-DLsp0He6.js": {
+    "file": "assets/activities-DLsp0He6.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
@@ -15,13 +15,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-Yv8hYCnK.js",
+    "file": "assets/index-j6ZZGLmu.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-CqepDsYn.js",
-      "_activities-CL6-jAfm.js"
+      "_activities-DLsp0He6.js"
     ],
     "css": [
       "assets/index-ezkY6dYa.css"
