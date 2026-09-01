@@ -1,6 +1,6 @@
 {
-  "_activities-DA_fdPEg.js": {
-    "file": "assets/activities-DA_fdPEg.js",
+  "_activities-seiT29Fc.js": {
+    "file": "assets/activities-seiT29Fc.js",
     "name": "activities"
   },
   "_vendors-CCtDtUbp.css": {
@@ -15,13 +15,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-B5sYm7RQ.js",
+    "file": "assets/index-BL083mjk.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vendors-CqepDsYn.js",
-      "_activities-DA_fdPEg.js"
+      "_activities-seiT29Fc.js"
     ],
     "css": [
       "assets/index-ezkY6dYa.css"
